@@ -1,0 +1,22 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none",
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "\tberry.db.elephantsql.com (berry-01)",
+      "driver": "PostgreSQL",
+      "connectString": "postgres://gkbeczuc:cx1lYEDi2ENOZTKfOB_2imQNgp4MtCRM@berry.db.elephantsql.com/gkbeczuc",
+      "name": "Dimitrius DB"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "driver": "PostgreSQL",
+      "name": "Day 2 homework",
+      "connectString": "postgres://fwtoftwp:qvTKjCqb0MsJ7zbA2CzaWdkqdDtFYsv1@peanut.db.elephantsql.com/fwtoftwp"
+    }
+  ]
+}
